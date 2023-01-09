@@ -1,0 +1,15 @@
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\bin\Debug\net6.0\Exercicio 1 - Comissões.exe
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\bin\Debug\net6.0\Exercicio 1 - Comissões.deps.json
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\bin\Debug\net6.0\Exercicio 1 - Comissões.runtimeconfig.json
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\bin\Debug\net6.0\Exercicio 1 - Comissões.dll
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\bin\Debug\net6.0\Exercicio 1 - Comissões.pdb
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.csproj.AssemblyReference.cache
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.AssemblyInfoInputs.cache
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.AssemblyInfo.cs
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.csproj.CoreCompileInputs.cache
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.dll
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\refint\Exercicio 1 - Comissões.dll
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.pdb
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\Exercicio 1 - Comissões.genruntimeconfig.cache
+C:\Users\NayaraCosta\Desktop\Exercicios\Exercicios C#\Exercicio 1 - Comissões\Exercicio 1 - Comissões\obj\Debug\net6.0\ref\Exercicio 1 - Comissões.dll

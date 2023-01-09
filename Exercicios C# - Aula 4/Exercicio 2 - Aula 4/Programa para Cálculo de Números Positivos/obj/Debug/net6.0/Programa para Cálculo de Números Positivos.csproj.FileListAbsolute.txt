@@ -1,0 +1,15 @@
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\bin\Debug\net6.0\Programa para Cálculo de Números Positivos.exe
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\bin\Debug\net6.0\Programa para Cálculo de Números Positivos.deps.json
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\bin\Debug\net6.0\Programa para Cálculo de Números Positivos.runtimeconfig.json
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\bin\Debug\net6.0\Programa para Cálculo de Números Positivos.dll
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\bin\Debug\net6.0\Programa para Cálculo de Números Positivos.pdb
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.csproj.AssemblyReference.cache
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.AssemblyInfoInputs.cache
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.AssemblyInfo.cs
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.csproj.CoreCompileInputs.cache
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.dll
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\refint\Programa para Cálculo de Números Positivos.dll
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.pdb
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\Programa para Cálculo de Números Positivos.genruntimeconfig.cache
+C:\Users\NayaraCosta\source\repos\Programa para Cálculo de Números Positivos\Programa para Cálculo de Números Positivos\obj\Debug\net6.0\ref\Programa para Cálculo de Números Positivos.dll

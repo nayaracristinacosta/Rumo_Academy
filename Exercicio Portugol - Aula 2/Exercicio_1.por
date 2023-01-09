@@ -31,18 +31,19 @@ programa
 	funcao logico validarEntradas()
 	{
 		// função responsável por validar os campos de entrada
+		      
 		se(modeloVeiculo == "")
 		{
 			escreva("\nO modelo do veículo não pode ser vazio! ") // Verifica se a variável modeloVeiculo está vazio
 			retorne falso
 		}
-
+                  
 		se(litrosAbastecidos < 0) // Verifica se a variável litrosAbastecidos é menor que 0
 		{
 		 	escreva("\nA quantidade de litros abastecidos não pode ser negativa! ") 
 		 	retorne falso
 		}
-
+              
 		senao se(quilometragemPercorrida < 0) // Verifica se a variável quilometragemPercorrida é menor que 0
 		{
 			escreva("\nA quilometragem percorrida não pode ser negativo! ")
@@ -66,8 +67,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 384; 
- * @PONTOS-DE-PARADA = ;
+ * @POSICAO-CURSOR = 935; 
+ * @PONTOS-DE-PARADA = 5;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
